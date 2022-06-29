@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/28 16:57:52.000.034,=C:\Users\CHR-TI\OneDrive - O. Miranda Da Rocha Comercio De Moveis Eireli\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/28 16:59:24.000.266,C:\Users\CHR-TI\OneDrive - O. Miranda Da Rocha Comercio De Moveis Eireli\Documentos\Embarcadero\Studio\Projects\Unit1.pas=E:\Delphi Projetos\Proj Cadastro Felipe\telainicial.pas</Transaction>
+    <Transaction>2022/03/28 16:59:24.000.266,C:\Users\CHR-TI\OneDrive - O. Miranda Da Rocha Comercio De Moveis Eireli\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=E:\Delphi Projetos\Proj Cadastro Felipe\telainicial.dfm</Transaction>
+    <Transaction>2022/03/28 16:59:33.000.046,C:\Users\CHR-TI\OneDrive - O. Miranda Da Rocha Comercio De Moveis Eireli\Documentos\Embarcadero\Studio\Projects\Project1.dproj=E:\Delphi Projetos\Proj Cadastro Felipe\projcadastro.dproj</Transaction>
+    <Transaction>2022/03/28 17:23:10.000.416,=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/03/28 17:23:32.000.879,E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas=E:\Delphi Projetos\Proj Cadastro Felipe\cadcliente.pas</Transaction>
+    <Transaction>2022/03/28 17:23:32.000.879,E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.dfm=E:\Delphi Projetos\Proj Cadastro Felipe\cadcliente.dfm</Transaction>
+    <Transaction>2022/03/29 12:12:58.000.754,=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 12:13:42.000.404,E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas=E:\Delphi Projetos\Proj Cadastro Felipe\cadcidade.pas</Transaction>
+    <Transaction>2022/03/29 12:13:42.000.404,E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.dfm=E:\Delphi Projetos\Proj Cadastro Felipe\cadcidade.dfm</Transaction>
+    <Transaction>2022/03/29 14:59:24.000.525,=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 15:00:03.000.263,E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.dfm=E:\Delphi Projetos\Proj Cadastro Felipe\cadestado.dfm</Transaction>
+    <Transaction>2022/03/29 15:00:03.000.263,E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas=E:\Delphi Projetos\Proj Cadastro Felipe\cadestado.pas</Transaction>
+    <Transaction>2022/03/29 16:08:31.000.894,=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 16:08:54.000.910,E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas=E:\Delphi Projetos\Proj Cadastro Felipe\unfuncoes.pas</Transaction>
+    <Transaction>2022/03/29 17:04:48.000.839,E:\Delphi Projetos\Proj Cadastro Felipe\unfuncoes.pas=</Transaction>
+    <Transaction>2022/03/30 08:59:06.000.335,=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 08:59:50.000.693,E:\Delphi Projetos\Proj Cadastro Felipe\cadocupacao.pas=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 08:59:50.000.693,E:\Delphi Projetos\Proj Cadastro Felipe\cadocupacao.dfm=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.dfm</Transaction>
+    <Transaction>2022/03/31 09:40:16.000.054,=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/03/31 09:40:55.000.220,E:\Delphi Projetos\Proj Cadastro Felipe\cadestadocivil.dfm=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.dfm</Transaction>
+    <Transaction>2022/03/31 09:40:55.000.220,E:\Delphi Projetos\Proj Cadastro Felipe\cadestadocivil.pas=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/03/31 16:48:17.000.311,=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/03/31 16:49:30.000.649,E:\Delphi Projetos\Proj Cadastro Felipe\consclientes.pas=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/03/31 16:49:30.000.649,E:\Delphi Projetos\Proj Cadastro Felipe\consclientes.dfm=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.dfm</Transaction>
+    <Transaction>2022/04/01 09:11:50.000.374,=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/04/01 09:12:45.000.190,E:\Delphi Projetos\Proj Cadastro Felipe\conscidades.pas=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/04/01 09:12:45.000.200,E:\Delphi Projetos\Proj Cadastro Felipe\conscidades.dfm=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.dfm</Transaction>
+    <Transaction>2022/04/01 10:51:52.000.362,=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/04/01 11:24:08.000.826,E:\Delphi Projetos\Proj Cadastro Felipe\consestados.dfm=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.dfm</Transaction>
+    <Transaction>2022/04/01 11:24:08.000.826,E:\Delphi Projetos\Proj Cadastro Felipe\consestados.pas=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/04/01 15:56:47.000.601,=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/04/01 15:57:10.000.369,E:\Delphi Projetos\Proj Cadastro Felipe\consocup.pas=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/04/01 15:57:10.000.369,E:\Delphi Projetos\Proj Cadastro Felipe\consocup.dfm=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.dfm</Transaction>
+    <Transaction>2022/04/05 08:03:02.000.999,=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/04/05 08:03:55.000.075,E:\Delphi Projetos\Proj Cadastro Felipe\consEstCivil.dfm=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.dfm</Transaction>
+    <Transaction>2022/04/05 08:03:55.000.075,E:\Delphi Projetos\Proj Cadastro Felipe\consEstCivil.pas=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 09:44:35.000.816,=E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas</Transaction>
+    <Transaction>2022/04/16 08:30:04.000.764,E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.dfm=E:\Delphi Projetos\Proj Cadastro Felipe\cadClienteNovo.dfm</Transaction>
+    <Transaction>2022/04/16 08:30:04.000.764,E:\Delphi Projetos\Proj Cadastro Felipe\Unit1.pas=E:\Delphi Projetos\Proj Cadastro Felipe\cadClienteNovo.pas</Transaction>
+  </Transactions>
+</BorlandProject>
